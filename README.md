@@ -1,10 +1,3 @@
-# devweb
-
-<p align="center">
-    <img windth="470" src="/src/assets/screenshot.png">
-</p>
-
-
 ## Project setup
 ```
 npm install
